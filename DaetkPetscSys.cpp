@@ -1,5 +1,9 @@
 #include "DaetkPetscSys.h"
 #include <cstdio>
+#include <iostream>
+#include <sstream>
+#include <complex>
+
 namespace Daetk 
 {
 namespace Petsc

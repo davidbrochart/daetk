@@ -2,6 +2,7 @@
 #include "mpi.h"
 
 #include <cassert>
+#include <complex>
 
 namespace Daetk 
 {

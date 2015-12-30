@@ -1,5 +1,9 @@
 #include "DaetkPetscLinearSolver.h"
 #include <cstdio>
+#include <iostream>
+#include <sstream>
+#include <complex>
+
 #include "Tracer.h"
 //user defined Prec
 //     ierr = PCShellSetApply(PC pc,int (*apply)(void *ctx,Vec,Vec),void *ctx); 

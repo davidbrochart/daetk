@@ -9,6 +9,9 @@
 #include "DaetkPetscSys.h"
 #include "DaetkPetscAnalyticalJacobian.h"
 #include <vector>
+#include <iostream>
+#include <sstream>
+#include <complex>
 
 namespace Daetk 
 {

@@ -1,5 +1,7 @@
 #include "DaetkPetscVec.h"
 #include "Tracer.h"
+#include <complex>
+
 namespace Daetk 
 {
 namespace Petsc

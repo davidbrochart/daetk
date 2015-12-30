@@ -2,6 +2,9 @@
 #define DAETKPETSCANALYTICALJACOBIAN_H
 
 #include <vector>
+#include <iostream>
+#include <sstream>
+#include <complex>
 #include "Definitions.h"
 #include "IntVec.h"
 #include "Utilities.h"
